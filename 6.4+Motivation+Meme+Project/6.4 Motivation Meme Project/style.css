@@ -1,0 +1,17 @@
+.card{
+    background-color: black;
+    width: 40rem;
+    height: 40rem;
+    text-align: center;
+    padding: 2rem;
+    margin: auto;
+}
+
+.image{
+    border: yellow solid 3px;
+    padding: 1rem
+}
+
+body{
+    color: aliceblue;
+}
